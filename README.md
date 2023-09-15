@@ -1,5 +1,5 @@
 👋 Hi, I'm Amresh Kumar
-🎓 Computer Engineering Student | 📚 3rd Semester @R.K University
+🎓 Computer Engineering Student | 📚 3rd Semester R.K University
 
 🚀 Passionate about technology and coding.
 💡 Constantly learning and exploring the world of computer engineering.
@@ -8,8 +8,8 @@
 🔍 On a journey to turn my passion into a fulfilling career.
 
 📫 Let's connect:
-🔗 LinkedIn: Your LinkedIn Profile](https://www.linkedin.com/in/amresh-kumar-709b38259
-🌐 Portfolio: [Your Portfolio Website]
-🐦 Twitter: https://twitter.com/amresh_91620?t=a_F8kOtoimdxgynDVxWD7A&s=09
-📧 Email: akumar575@rku.ac.in
+🔗 LinkedIn:https://www.linkedin.com/in/amresh-kumar-709b38259
+🌐 Portfolio:
+🐦 Twitter:https://twitter.com/amresh_91620?t=a_F8kOtoimdxgynDVxWD7A&s=09
+📧 Email:akumar575@rku.ac.in
 
