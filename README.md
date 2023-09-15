@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Amresh kumar Gond
-- 👀 I’m interested in python and java
-- 🌱 I’m currently learning computer engineering..... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Amresh Kumar
+🎓 Computer Engineering Student | 📚 3rd Semester @R.K University
 
-<!---
-amresh91620/amresh91620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate about technology and coding.
+💡 Constantly learning and exploring the world of computer engineering.
+💻 Building projects and honing my programming skills.
+🌟 Excited to contribute to open source projects and collaborate with fellow developers.
+🔍 On a journey to turn my passion into a fulfilling career.
+
+📫 Let's connect:
+🔗 LinkedIn: Your LinkedIn Profile](https://www.linkedin.com/in/amresh-kumar-709b38259
+🌐 Portfolio: [Your Portfolio Website]
+🐦 Twitter: https://twitter.com/amresh_91620?t=a_F8kOtoimdxgynDVxWD7A&s=09
+📧 Email: akumar575@rku.ac.in
+
